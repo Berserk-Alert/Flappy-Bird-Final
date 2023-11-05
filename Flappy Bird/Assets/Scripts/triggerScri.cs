@@ -11,7 +11,6 @@ public class triggerScri : MonoBehaviour
     void Start()
     {
 
-
         logic = GameObject.FindGameObjectWithTag("Logic").GetComponent<LogicScript>();
     }
 
@@ -20,7 +19,6 @@ public class triggerScri : MonoBehaviour
     {
         
     }
-
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
