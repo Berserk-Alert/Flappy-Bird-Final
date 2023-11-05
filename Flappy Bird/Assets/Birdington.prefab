@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 5683188857059039542}
   - component: {fileID: 706868724586601564}
   - component: {fileID: 274289841831685576}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Birdington
   m_TagString: Untagged
   m_Icon: {fileID: 0}
